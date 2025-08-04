@@ -1,2 +1,3 @@
 echo "git pull origin main"
 echo "its a second command "
+echo "its a third command"
